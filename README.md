@@ -23,5 +23,8 @@ Who we are: German IT Jobs helps you find and get your dream job in Germany. App
 * [Senior PHP Developer (m/f) eCommerce in Stuttgart, Germany](http://germanitjobs.com/job/senior-php-developer-mf-ecommerce)
 * [Senior Python Django Developer (m/f) in Stuttgart, Germany](http://germanitjobs.com/job/senior-python-django-developer-mf)
 
+## How to relocate to Germany?
+If you have any questions about the relocation process, the language, or finding a place to live, check the [relocating-to-berlin](https://github.com/azproduction/relocating-to-berlin) repository also on GitHub.
+
 ## Credits
 Image taken by Morana T (pixabay)
