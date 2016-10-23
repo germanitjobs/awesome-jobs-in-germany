@@ -1,5 +1,7 @@
 # Awesome Jobs in Germany
 
+![Neuschwanstein castle](neuschwanstein-in-germany.jpg)
+
 This is a markdown-list of our current job listings in markdown format. If you watch this repository by clicking the button on the top, you'll get notified of new jobs inside GitHub.
 
 Who we are: German IT Jobs helps you find and get your dream job in Germany. Apply with us, we'll do the rest for you. Read more about our process [here](http://www.germanitjobs.com/easy-job-application-process/)
@@ -20,3 +22,6 @@ Who we are: German IT Jobs helps you find and get your dream job in Germany. App
 * [Senior Java Developer (m/f) in Karlsruhe, Germany](http://germanitjobs.com/job/senior-java-developer-mf)
 * [Senior PHP Developer (m/f) eCommerce in Stuttgart, Germany](http://germanitjobs.com/job/senior-php-developer-mf-ecommerce)
 * [Senior Python Django Developer (m/f) in Stuttgart, Germany](http://germanitjobs.com/job/senior-python-django-developer-mf)
+
+## Credits
+Image taken by Morana T (pixabay)
