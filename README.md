@@ -7,6 +7,17 @@ This is a markdown-list of our current job listings in markdown format. If you w
 Who we are: German IT Jobs helps you find and get your dream job in Germany. Apply with us, we'll do the rest for you. Read more about our process [here](http://germanitjobs.com). You can also find the [perfect CV for Germany](https://github.com/germanitjobs/perfect-german-cv) on our github page.
 
 ## Open positions
+* [Java Backend Developer – Provider Connectivity (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-backend-developer-provider-connectivity-holidu-munich)
+* [Senior Java Backend Developer - Financial Systems and Processes (f/m/d) for fastest growing travel t](https://germanitjobs.com/jobs/senior-java-backend-developer-financial-systems-and-processes-holidu-munich)
+* [Technical Support Engineer (f/m/d) - Bookiply - for fastest growing travel tech company](https://germanitjobs.com/jobs/technical-support-engineer-holidu-munich-bookiply)
+* [Senior Java Full Stack Developer - Data Application (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-java-full-stack-developer-data-application-holidu-munich)
+* [Java Backend Developer - Bookiply (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-backend-developer-bookiply-holidu-munich)
+* [Senior Android Developer - Search Engine (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-android-developer-search-engine-holidu-munich)
+* [ReactJS / React Native Frontend Developer - Bookiply for fastest growing travel tech company](https://germanitjobs.com/jobs/reactjs-react-native-frontend-developer-bookiply-holidu-munich)
+* [Senior Salesforce Commerce Cloud Developer (m/f/d) for bike and outdoors e-commerce](https://germanitjobs.com/jobs/senior-salesforce-commerce-cloud-developer-internetstores-stuttgart)
+* [Salesforce Commerce Cloud Developer (m/f/d) for bike and outdoors e-commerce](https://germanitjobs.com/jobs/salesforce-commerce-cloud-developer-internetstores-stuttgart)
+* [Solution Architect ERP Integration (m/f/d) for bike and outdoors e-commerce](https://germanitjobs.com/jobs/solution-architect-erp-integration-internetstores-stuttgart)
+* [QA Engineer (m/f/d) for bike and outdoors e-commerce](https://germanitjobs.com/jobs/qa-engineer-internetstores-stuttgart)
 * [Software Engineer (Frostbite R&D) (m/f/d)](https://germanitjobs.com/jobs/software-engineer-electronicarts-cologne)
 * [Software Developer C# (FIFA) (m/f/d)](https://germanitjobs.com/jobs/software-developer-electronicarts-cologne)
 * [Principal Software Engineer (m/f/d)](https://germanitjobs.com/jobs/principal-software-engineer-digitalriver-cologne)
