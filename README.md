@@ -7,6 +7,20 @@ This is a markdown-list of our current job listings in markdown format. If you w
 Who we are: German IT Jobs helps you find and get your dream job in Germany. Apply with us, we'll do the rest for you. Read more about our process [here](http://germanitjobs.com). You can also find the [perfect CV for Germany](https://github.com/germanitjobs/perfect-german-cv) on our github page.
 
 ## Open positions
+* [Security Software Engineer (f/m/d) in Leipzig for the leading shirt printing on demand platform](https://germanitjobs.com/jobs/security-software-engineer-spreadshirt-leipzig)
+* [Director Software and Systems Engineering (f/m/d) in Leipzig](https://germanitjobs.com/jobs/director-software-and-systems-engineering-spreadshirt-leipzig)
+* [for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-java-backend-developer-search-engine-holidu-munich)
+* [Java Full Stack Developer - Data Application (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-full-stack-developer-data-application-holidu-munich)
+* [Senior Java Backend Developer – Provider Connectivity (f/m/d) for fastest growing travel tech compan](https://germanitjobs.com/jobs/senior-java-backend-developer-provider-connectivity-holidu-munich)
+* [Senior ReactJS / React Native Frontend Developer - Bookiply (f/m/d) for fastest growing travel tech](https://germanitjobs.com/jobs/senior-reactjs-react-native-frontend-developer-bookiply-holidu-munich)
+* [Java Backend Developer - Search Engine (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-backend-developer-search-engine-holidu-munich)
+* [Senior DevOps Engineer (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-devops-engineer-holidu-munich)
+* [Senior ReactJS Frontend Developer - Search Engine (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-reactjs-frontend-developer-search-engine-holidu-munich)
+* [Senior Java Backend Developer – Provider Infrastructure (f/m/d) for fastest growing travel tech comp](https://germanitjobs.com/jobs/senior-java-backend-developer-provider-infrastructure-holidu-munich)
+* [Java Backend Developer – Provider Infrastructure (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-backend-developer-provider-infrastructure-holidu-munich)
+* [Java Backend Developer - Financial Systems and Processes (f/m/d) for fastest growing travel tech com](https://germanitjobs.com/jobs/java-backend-developer-financial-systems-and-processes-holidu-munich)
+* [ReactJS Frontend Developer - Search Engine(f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/reactjs-frontend-developer-search-engine-holidu-munich)
+* [Android Developer - Search Engine (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/android-developer-search-engine-holidu-munich)
 * [Java Backend Developer – Provider Connectivity (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-backend-developer-provider-connectivity-holidu-munich)
 * [Senior Java Backend Developer - Financial Systems and Processes (f/m/d) for fastest growing travel t](https://germanitjobs.com/jobs/senior-java-backend-developer-financial-systems-and-processes-holidu-munich)
 * [Technical Support Engineer (f/m/d) - Bookiply - for fastest growing travel tech company](https://germanitjobs.com/jobs/technical-support-engineer-holidu-munich-bookiply)
