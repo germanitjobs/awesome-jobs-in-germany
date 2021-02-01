@@ -7,9 +7,20 @@ This is a markdown-list of our current job listings in markdown format. If you w
 Who we are: German IT Jobs helps you find and get your dream job in Germany. Apply with us, we'll do the rest for you. Read more about our process [here](http://germanitjobs.com). You can also find the [perfect CV for Germany](https://github.com/germanitjobs/perfect-german-cv) on our github page.
 
 ## Open positions
+* [Junior Fullstack/Backend Developer](https://germanitjobs.com/jobs/junior-fullstack-backend-developer-evoach)
+* [Software developer for the financial industry](https://germanitjobs.com/jobs/software-developer-transaction-factory-frankfurt)
+* [Software developer for the financial industry](https://germanitjobs.com/jobs/software-developer-transaction-factory-leipzig)
+* [Software Architect (m/f/d) for the financial industry](https://germanitjobs.com/jobs/software-architect-lucht-probst-associates-gmbH-leipzig)
+* [(Junior) Software Engineer (m/f/d) for the financial industry](https://germanitjobs.com/jobs/junior-software-engineer-lucht-probst-associates-gmbH-leipzig)
+* [Full Stack Developer (m/f/d) for Europe’s leading gas capacity trading platform](https://germanitjobs.com/jobs/full-stack-developer-prisma-leipzig)
+* [DevOps Engineer Cloud (m/f/d) for Europe’s leading gas capacity trading platform](https://germanitjobs.com/jobs/devops-engineer-cloud-prisma-leipzig)
+* [Frontend Developer (m/f/d) for Europe’s leading gas capacity trading platform](https://germanitjobs.com/jobs/frontend-developer-prisma-leipzig)
+* [Full-Stack Software Developer for Health Apps, iOS (m/f/d)](https://germanitjobs.com/jobs/full-stack-software-developer-helios-leipzig)
+* [SR. SOFTWARE DEV. ENGINEER (M/W/D) near Stuttgart](https://germanitjobs.com/jobs/sr-software-dev-engineer-belden-neckartenzlingen)
+* [TEST DEVELOPER (M/W/D) near Stuttgart](https://germanitjobs.com/jobs/test-developer-belden-neckartenzlingen)
 * [Security Software Engineer (f/m/d) in Leipzig for the leading shirt printing on demand platform](https://germanitjobs.com/jobs/security-software-engineer-spreadshirt-leipzig)
 * [Director Software and Systems Engineering (f/m/d) in Leipzig](https://germanitjobs.com/jobs/director-software-and-systems-engineering-spreadshirt-leipzig)
-* [for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-java-backend-developer-search-engine-holidu-munich)
+* [Senior Java Backend Developer - Search Engine (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/senior-java-backend-developer-search-engine-holidu-munich)
 * [Java Full Stack Developer - Data Application (f/m/d) for fastest growing travel tech company](https://germanitjobs.com/jobs/java-full-stack-developer-data-application-holidu-munich)
 * [Senior Java Backend Developer – Provider Connectivity (f/m/d) for fastest growing travel tech compan](https://germanitjobs.com/jobs/senior-java-backend-developer-provider-connectivity-holidu-munich)
 * [Senior ReactJS / React Native Frontend Developer - Bookiply (f/m/d) for fastest growing travel tech](https://germanitjobs.com/jobs/senior-reactjs-react-native-frontend-developer-bookiply-holidu-munich)
