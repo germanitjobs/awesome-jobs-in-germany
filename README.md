@@ -7,6 +7,7 @@ This is a markdown-list of our current job listings in markdown format. If you w
 Who we are: German IT Jobs helps you find and get your dream job in Germany. Apply with us, we'll do the rest for you. Read more about our process [here](http://germanitjobs.com). You can also find the [perfect CV for Germany](https://github.com/germanitjobs/perfect-german-cv) on our github page.
 
 ## Open positions
+* [Frontend Engineer for Greentech Startup in the Process Industry (f/m/d)](https://germanitjobs.com/jobs/frontend-engineer-for-greentech-startup-in-the-process-industry)
 * [Junior Fullstack/Backend Developer](https://germanitjobs.com/jobs/junior-fullstack-backend-developer-evoach)
 * [Software developer for the financial industry](https://germanitjobs.com/jobs/software-developer-transaction-factory-frankfurt)
 * [Software developer for the financial industry](https://germanitjobs.com/jobs/software-developer-transaction-factory-leipzig)
